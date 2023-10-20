@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Karan",
+                "last": "Nayak"
+            },
+            "location": {
+                "street": {
+                    "number": 7205,
+                    "name": "Bandstand Promenade"
+                },
+                "city": "Bathinda",
+                "state": "Arunachal Pradesh",
+                "country": "India",
+                "postcode": 79485,
+                "coordinates": {
+                    "latitude": "6.8766",
+                    "longitude": "-72.4472"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "karan.nayak@example.com",
+            "login": {
+                "uuid": "893b011c-38ab-4935-8915-bd90946e4ecd",
+                "username": "bigfrog753",
+                "password": "microsof",
+                "salt": "mGORMmxG",
+                "md5": "bfface0ba8bb90b233e32e975cb87157",
+                "sha1": "04150b0869f2f2e1f09275b29835fb45cfd18515",
+                "sha256": "eee8b5ba03dc290c0554b0d63e877fda3a2c44a81fe0cbde006f351cea209c48"
+            },
+            "dob": {
+                "date": "1993-02-04T11:19:47.833Z",
+                "age": 30
+            },
+            "registered": {
+                "date": "2014-07-30T23:23:27.047Z",
+                "age": 9
+            },
+            "phone": "8248287872",
+            "cell": "7864035425",
+            "id": {
+                "name": "UIDAI",
+                "value": "331041587399"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/3.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+            },
+            "nat": "IN"
+        }
+    ],
+    "info": {
+        "seed": "495834280f80355f",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
