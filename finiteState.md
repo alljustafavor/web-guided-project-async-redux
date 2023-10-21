@@ -17,3 +17,4 @@ A good example of a finite state machine is the following program language ident
 - `D` = Digit (0-9)
 - `L` = Letter (a-z/A-Z)
 - `T` = Tailpiece...
+![Screenshot 2023-10-21 143315](https://github.com/alljustafavor/web-guided-project-async-redux/assets/63937680/c79b75e5-7028-4b4f-b1d9-b855e38ebcd9)
