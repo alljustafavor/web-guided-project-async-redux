@@ -10,7 +10,7 @@ A good example of a finite state machine is the following program language ident
 - `T` => `E`: Perform an action and transition to `E`.
 - `E` => `;`: Add an ending statement.
 
-![Screenshot 2023-10-21 143315](https://raw.githubusercontent.com/alljustafavor/web-guided-project-async-redux/assets/63937680/c79b75e5-7028-4b4f-b1d9-b855e38ebcd9.png)
+![Screenshot 2023-10-21 143315](https://github.com/alljustafavor/web-guided-project-async-redux/assets/63937680/c9a2c43a-bbf3-402a-b207-ba46aca3f52c)
 
 ### Program Language Identifiers
 
